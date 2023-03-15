@@ -1,0 +1,11 @@
+{
+    "batch_size": 64,
+    "ent_coef": 3.794797423594763e-06,
+    "learning_rate": 0.0003286871805949382,
+    "n_epochs": 5,
+    "clip_range": 0.1,
+    "gae_lambda": 0.95,
+    "max_grad_norm": 0.8,
+    "gamma": 0.95,
+    "vf_coef": 0.11483689492120866
+}
